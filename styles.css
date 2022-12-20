@@ -1,0 +1,39 @@
+center{
+color: #556B2F;
+font-family: "Comic Sans MS";
+font-weight: bold;
+font-size:65px;
+background-color:rgb(42, 52, 165);
+text-align: center;
+height:120px;
+}
+.google{
+    position:relative;
+    left:600px;
+}
+.clock{
+    position:relative;
+    left:450px;
+}
+.money{
+    position:relative;
+    left:600px;
+    top:-20px
+}
+.ecriture{
+color:rgb(164, 172, 14)
+}
+.new{
+    background-color:green;
+    color:blue;
+    font-family:Arial;
+    font-size:45px;
+    height:75px;
+}
+
+h1{
+    color:rgb(54, 21, 216);
+    text-align:center;
+    position :relative;
+    left:15px;
+}
